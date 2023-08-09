@@ -59,6 +59,11 @@ const config = {
           src: 'img/tda.png',
         },
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       footer: {
         logo: {
           alt: 'Meta Open Source Logo',
