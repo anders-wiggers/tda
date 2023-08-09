@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[195],{2841:(e,t,r)=>{r.r(t),r.d(t,{default:()=>c});var s=r(7294),u=r(6550);function c(){return s.createElement(u.l_,{to:"/docs/Tour%20De%20Azeroth"})}}}]);
