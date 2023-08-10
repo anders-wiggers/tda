@@ -22,6 +22,15 @@ Endelig når vi Dalaran, en magisk by svævende over Crystalsong Forest. Dalaran
 
 Rejsen fra Explorer's League Outpost til Dalaran er en episk opdagelsesrejse gennem Grizzlemaw, The Argent Stand og The Unbound Thicket. Mens vi bevæger os gennem disse områder, oplever vi en verden fyldt med natur, kamp og mystik, der vidner om Azeroths rige historie og mangfoldighed.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `70`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 69
+````
+
 #### Obligatorisk Checkpoint
 
 * Grizzlemaw
@@ -57,6 +66,15 @@ The Rift Valley skaber en følelse af afskærmning, da de stejle klippesider sti
 Vores rejse kulminerer, når vi nærmer os indgangen til Icecrown Citadel, en imponerende fæstning beliggende på bjergets top. Den mørke portal symboliserer Lich King's dystre dominans og minder os om de mørke kræfter, der hviler over Icecrown.
 
 Rejsen rundt om bjerget i midten af Icecrown gennem The Rift Valley er en udfordring af vores udholdenhed og mod, mens vi navigerer gennem dette barske og forrevne terræn.
+
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `80`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 79
+````
 
 #### Obligatorisk Checkpoint
 

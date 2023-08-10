@@ -19,6 +19,15 @@ Fra Camp Mojache fortsætter vi mod Dire Maul, en legendarisk ruinby beliggende 
 
 Rejsen fra Gadgetzan til Dire Maul er en opdagelsesrejse gennem en skiftende topografi i Thousand Needles og en fordybelse i den naturlige pragt i Camp Mojache. Denne rejse vil tage dig med på en episk færd gennem kontrastfyldte områder og byder på en oplevelse fyldt med ærefrygtindgydende naturlige vidundere og historiske mysterier.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `30`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 29
+````
+
 #### Obligatorisk Checkpoint
 
 * Camp Mojache
@@ -55,6 +64,15 @@ Endelig når vi Thunderbluff i Mulgore, en storslået by bygget på klipperne og
 
 Rejsen fra Feathermoon Stronghold til Thunderbluff er en episk opdagelsesrejse gennem Desolace, Stonetalon Mountains og The Barrens. Gennem forladte områder, bjergskråninger og pulsrende krydsveje oplever vi en verden fyldt med kontraster og mangfoldighed. Denne rejse vil teste din udholdenhed, vække din nysgerrighed og tage dig med på en oplevelse, der illustrerer Azeroths rige landskaber og kulturer.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `30`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 29
+````
+
 #### Obligatorisk Checkpoint
 
 * Sunrock Retreat
@@ -90,6 +108,15 @@ Efter at have passeret Camp Taurajo, bevæger vi os ind i Duskwallow Marsh og st
 Slutteligt når vi Orgrimmar i Durotar, en hovedstad, der emmer af Horde's kultur og styrke. Højt hævet over det tørre landskab i Durotar rejser Orgrimmar sig som et monument over Horde's styrke og sammenhold. Denne imponerende hovedstad, opkaldt efter den legendariske Orgrim Doomhammer, er mere end blot et centrum for aktiviteter; det er en manifestation af Horde's kultur, værdier og viljestyrke.
 
 Rejsen fra Camp Narache til Orgrimmar er en episk oplevelse gennem forskellige aspekter af Horde's historie og samfund. Fra vidderne i The Barrens til de politiske diskussioner på Theramore Isle og ind i hjertet af Horde's kultur i Orgrimmar, oplever vi en verden fyldt med mangfoldighed og dynamik. Denne rejse vil teste din udholdenhed, vække din nysgerrighed og tage dig med på en oplevelse, der illustrerer Azeroths levende historie og folkesjæl.
+
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `35`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 34
+````
 
 #### Obligatorisk Checkpoint
 
@@ -129,6 +156,15 @@ Ruins of Eldarath bærer spor af en højtudviklet kultur, der en gang trivedes h
 
 Rejsen fra Orgrimmar til Ruins of Eldarath er en rejse gennem kontraster - fra det barske The Barrens, gennem den fortryllende Ashenvale Forest, og til de forhistoriske Ruins of Eldarath. Undervejs oplever vi Azeroths skiftende skønheder og udfordringer. Denne rejse vil teste din udholdenhed, vække din nysgerrighed og tage dig med på en oplevelse fyldt med mangfoldighed og historie.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `40`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 39
+````
+
 #### Obligatorisk Checkpoint
 
 * The Fallen Sky Lake
@@ -162,6 +198,15 @@ Fra Felwood fører vejen os til Everlook i Winterspring, en by beliggende i en e
 Slutteligt når vi indgangen til Hyjal, en mytisk og legendarisk lokalitet i Azeroths historie. Denne destination er omgivet af mystik og eventyr, og dens betydning strækker sig dybt ind i verdenshistorien. Det er et sted, hvor naturens kræfter og de begivenheder, der har formet Azeroth, kommer sammen på en episk måde.
 
 Rejsen fra Astranaar til Hyjal er en rejse gennem Azeroths varierede og dynamiske landskaber. Fra den naturlige skønhed i Astranaar til Felwoods forurening, fra Wintersprings tågede kulde til Hyjals legendariske betydning. Denne rejse vil teste vores mod, vække nysgerrighed og tage os på en oplevelse fyldt med kontraster, udfordringer og historie.
+
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `60`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 59
+````
 
 #### Obligatorisk Checkpoint
 
@@ -197,6 +242,10 @@ Op ad stien, omgivet af frodige skove og dyb natur, går vi gennem de steder, hv
 Endelig når vi Det Udbrændte World Tree, engang kaldet Nordrassil, hjertet af naturens pulserende kræfter og livets strøm. Dets en gang fortryllede blade glødede med en vitalitet og fremtidshåb, men de er nu forkullet og falmede som konsekvensen af Archimondes rasende hærgen. Her, tronende højt oppe i træets knækkede krone, svæver Archimondes skelet stadig som en skrækindjagende monument over The Burning Legions uovervindelige magt. Dog er det også en ufravigelig påmindelse om, at når Azeroths helte står sammen i en urokkelig enhed, formår de at besejre selv de mest umulige udfordringer.
 
 Rejsen fra bunden af Mount Hyjal til det udbrændte World Tree er mere end en fysisk tur gennem landskaber. Det er en rejse gennem tid og minder, der minder os om Azeroths evne til at samle sig i ansigtet af trusler. Det Udbrændte World Tree står som et monument over sejr og tab, og Archimondes skelet hænger som en advarsel om, at selv de mægtigste fjender kan blive besejret af en forenet front.
+
+#### Tour Niveau
+
+På denne etape er niveau ikke relevant.
 
 #### Obligatorisk Checkpoint
 

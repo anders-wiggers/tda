@@ -17,6 +17,21 @@ Så gør dig klar med dine løbesko, saml dit mod og tag med på dette spændend
 
 Tour de Azeroth er en storslået begivenhed, der hylde Azeroth skønhed og pragt. For at sikre, at hver enkelt deltager vil opleve en uforlignelig tid og føle sig udfordret på en retfærdig måde, er der fastsat en samling af ufravigelige regler, som skal overholdes. Dette afsnit præsenterer en overordnet struktur af disse regler, der styrer denne enestående færd gennem Azeroth's episke vidder.
 
+### Heltes baggrund
+
+Tour de Azeroth, en hæsblæsende konfrontation, der kaster et strålende spotlys på helte af mangfoldige raser og køn. Enhver race, ethvert køn og enhver klasse er velkomment til at træde ind i denne episke tour.
+
+#### Heltes Erfaring
+
+Deltagende helte, som begiver sig ind på en given etape, skal finjustere deres erfaringsmæssige kompetencer (Level) så deres kompetencer er i overensstemmelse med den specifikke etapes kompetence niveau. 
+Dette kompetence niveau bærer essensen af udfordringen og er grundigt beskrevet i detaljerne af etapebeskrivelsen.
+
+Dette niveau udgør grundlæggende standarden for sværhedsgraden, og det er baseret på niveauet af den mest krævende region, der krydses i løbet af etapen. Det er denne målestok, der danner grundlaget for, hvor udfordrende denne strækning af rejsen vil være.
+
+#### Heltes Udstyr
+
+Heltene, der deltager i Tour de Azeroth, må ikke benytte udstyr, der forstærker heltens attributter. Dog er det tilladt at benytte kosmetisk udstyr, hvilket er udstyr, der ikke ændrer på heltes attributter.
+
 ### Hastighed
 
 I Tour de Azeroth er der pålagt en begrænsning for, hvor hurtigt helte kan løbe, idet de bevæger sig gennem dette betagende landskab. Denne begrænsning er fastsæt til en hastighed, der ikke må overstige 20 gange den normale løbehastighed. 
@@ -45,6 +60,12 @@ Etape tids arket kan findes på følgende [Link](https://docs.google.com/spreads
 
 I visse ruter, hvor flere forskellige stier kan føre til målet, er der indført obligatoriske punkter, som deltagere skal besøge. Disse punkter findes altid på den officielle rute og tjener som en måde at forhindre brugen af alternative, potentielt hurtigere veje.
 
+### Brug af magi og andre evner
+
+I Tour de Azeroth er ærlighed og lige vilkår kerneværdier. Helte er derfor bundet af regler, der forbyder enhver form for sabotage eller præstationsfremmende magi. 
+Enhver form for magi eller andre evner, der kunne tilskynde til forbedring af en deltagerhelts individuelle præstation eller skade en anden helts fremgang, er strengt forbudt. 
+Her hædres sande dyder og færdigheder, og kun gennem ægte dygtighed kan helte vinde de eftertragtede Azerothiske Gule Støvler.
+
 ### Død
 
 Turen gennem Azeroth er en farlig udfordring. Hvis en deltager mister livet undervejs, har deltageren mulighed for at genoplive sig selv.
@@ -59,7 +80,7 @@ Hvis en helt kommer ud af den fastlagte rute, bør helten bestræbe sig på at f
 
 ### Did not finish DNF
 
-Hvis en deltager ikke gennemfører løbet, vil deres tid blive fastsat til den tid, der ellers tilhører den dårligst præsterende deltager, plus yderligere 30 sekunder.
+Hvis en deltager ikke gennemfører løbet, vil deres tid blive fastsat til den tid, der ellers tilhører den dårligst præsterende deltager, plus yderligere 30 sekunder. 
 
 ## Støvler
 

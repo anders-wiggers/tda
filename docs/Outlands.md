@@ -22,6 +22,15 @@ Vi nærmer os Cenarion Refuge, og stemningen skifter igen. En følelse af ro og 
 
 Rejsen fra The Dark Portal til Cenarion Refuge er en udfordrende, men også en vidunderlig rejse gennem Outlands mangfoldige landskaber. Den byder på alt fra dystre og øde områder til frodige skove og betagende sumpområder. Det er en prøvelse af mod og udholdenhed, men også en opdagelsesrejse fyldt med fascination og ærefrygt for denne enestående verden.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `50`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 49
+````
+
 #### Obligatorisk Checkpoint
 
 * Honor Hold / Thrallmar
@@ -60,6 +69,15 @@ Efter at have udforsket Zabra'jin og beundret dets unikke charme, fortsætter vi
 
 Turen fra Cenarion Refuge til Sylvanaar gennem Halaa og Zabra'jin er en unik rejse gennem Outlands mangfoldige landskaber. Fra Nagrands frodige græsland til Zangarmarsh' sumpede områder oplever vi naturens forskellighed og Outlands rige historie og kultur. Det er en rejse fyldt med opdagelser, eventyr og en fordybelse i naturens vidunderlige skaberværk.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `55`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 54
+````
+
 #### Obligatorisk Checkpoint
 
 * Halaa
@@ -97,6 +115,15 @@ Endelig ser vi Area 52 i al sin pragt. Dette avancerede forskningskompleks er hj
 
 Rejsen fra Sylvanaar til Area 52 er en bemærkelsesværdig rejse gennem en mangfoldig verden, hvor naturens rå skønhed møder futuristisk teknologi og arkana magi. Fra bjergtoppe til elektrisk glødende landskaber får vi et glimt af Outlands utrolige variation og fascinerende kultur. Det er en rejse fyldt med eventyr, udfordringer og en fordybelse i Outlands unikke vidundere.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `60`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 59
+````
+
 #### Obligatorisk Checkpoint
 
 ##### Start
@@ -128,6 +155,15 @@ Som vi bevæger os dybere ind i dalen, er det som om, tiden går i stå. Mørke 
 The Black Temple står som en skræmmende bastion af ondskab og mørke. Bygget ind i klipperne, virker det som en uigennemtrængelig fæstning. Dette dystre sted er hjemsted for Illidan Stormrage, en magtfuld og kontroversiel skikkelse, der har skabt frygt og fascination i Outland.
 
 Det er en rejse gennem et landskab præget af både skønhed og dystre hemmeligheder. Det er en rejse, der vil teste os, udfordre os og vise os, hvad vi er i stand til, når vi konfronteres med det uventede og det farlige. Rejsen fra Shattrath City til The Black Temple er en episk færd, der vil efterlade et uudsletteligt aftryk på vores sjæle og forankre os endnu dybere i Outlands rige historie og magiske verden.
+
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `65`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 64
+````
 
 #### Obligatorisk Checkpoint
 

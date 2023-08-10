@@ -23,6 +23,15 @@ Endelig nærmer vi os Stormwind, Alliance storslåede hovedstad. Den majestætis
 
 Rejsen fra Booty Bay til Stormwind tager os med gennem en række kontrasterende landskaber og stemninger. Fra den farlige Duskwood til den håbefulde Westfall og den hyggelige Goldshire. Det er en rejse fyldt med eventyr, udfordringer og en følelse af at være en del af Azeroths rige historie.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `10`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 9
+````
+
 #### Obligatorisk Checkpoint
 
 * Gurubashi Arena
@@ -63,6 +72,15 @@ Vi nærmer os nu Southern Gate Outpost, en militærpost, der vogter over indgang
 Endelig ankommer vi til Ironforge, dværgenes storslåede hovedstad, der ligger dybt inde i bjergene. De massive søjler og udførlige arkitektur er et vidnesbyrd om dværgenes dygtighed og styrke. Byen pulserer af aktivitet, og vi er omgivet af varme og gæstfrihed.
 
 Rejsen fra Northshire Valley til Ironforge er en oplevelse af mod, eventyr og opdagelse. Gennem Lakeshire, Blackrock Mountain, Searing Gorge og Southern Gate Outpost møder vi udfordringer og farer, men belønningen er en følelse af triumf og ærefrygt, når vi endelig ankommer til den storslåede Ironforge.
+
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `50`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 49
+````
 
 #### Items
 
@@ -112,6 +130,15 @@ Endelig nærmer vi os Undercity, en dystopisk og forfalden by, der ligger under 
 
 Rejsen fra Thelsamar til Undercity er en færd gennem kontrasterende landskaber og farlige områder. Gennem Wetlands, Arathi Highlands, Thoradin's Wall, Hillsbrad Foothills, Silverpine Forest og Pyrewood Village oplever vi en verden fyldt med eventyr, udfordringer og mystik. Vores mod og udholdenhed vil blive sat på prøve, når vi udforsker Azeroths utæmmede skønhed og uhyggelige hemmeligheder.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `20`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 19
+````
+
 #### Obligatorisk Checkpoint
 
 * Thoradin Wall
@@ -149,6 +176,15 @@ Vores rejse kulminerer i Thalassian Pass, en smal passage, der fungerer som en g
 
 Rejse fra Brill gennem The Bulwark, Corin's Crossing, Noth's Pass Tower og Thalassian Pass udfolder Azeroths mangfoldige landskaber og prøver vores tapperhed og udholdenhed. Gennem farlige vådområder, dystre forsvarspositioner og tågede skove oplever vi en verden fyldt med udfordringer og mysterier, der venter på at blive udforsket.
 
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `50`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 49
+````
+
 #### Obligatorisk Checkpoint
 
 * The Bulwak
@@ -184,6 +220,15 @@ Gennem Deathscare fører rejsen os gennem et landskab fyldt med rædsel. Denne d
 Vi bevæger os langs denne dødsstribe og oplever Silvermoons ødelagte port. Porten, der engang var en imponerende indgang til den storslåede by, er nu et skæbnesvangert sted, hvor tidens tand og konflikter har efterladt ar på strukturen. Silvermoons rige har været igennem en prøvelsesrig historie, og dette sted er et symbol på modgang og overlevelse.
 
 Rejsen langs Deathscare er en rejse gennem skyggerne af Azeroths historie. Mens vi bevæger os fra Deathholme til Silvermoons ødelagte port, reflekterer vi over de begivenheder, der har formet dette område. Dette dystre landskab minder os om Azeroths mange kampe og ofre og understreger behovet for at forstå vores fortid for at forme en bedre fremtid.
+
+#### Tour Niveau
+
+På denne etape skal heltenes niveau være `10`. For at tilpasse heltens niveau til etapen kan følgende kommando bruges:
+
+````
+.reset level
+.character level 9
+````
 
 #### Obligatorisk Checkpoint
 
