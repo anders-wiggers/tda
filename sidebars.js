@@ -25,6 +25,11 @@ const sidebars = {
       label: 'Etaper',
       items: ['Easton Kingdoms', 'Northrend', 'Outlands', 'Kalimdor'],
     },
+    {
+      type: 'category',
+      label: 'Årsopsummering',
+      items: ['Turen 2023'],
+    }
   ],
 };
 

@@ -71,7 +71,7 @@ const config = {
           href: 'https://anrs.dk',
           height: 50
         },
-        copyright: `Copyright © ${new Date().getFullYear()} Anders Wiggers, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://www.linkedin.com/in/anders-wiggers/">Anders Wiggers</a>, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
